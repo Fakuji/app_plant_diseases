@@ -74,3 +74,8 @@ pyuic5 second.ui -o second.py
 - PyQt5
 - TensorFlow/Keras (модель Xception)
 - NumPy для обработки изображений
+
+## Быстрый старт
+1. Скачать [модель](https://disk.yandex.ru/d/C9eW4sD242_Zng) машинного обучения
+2. Скачать репозиторий
+3. Запустить start.py 
